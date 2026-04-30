@@ -1,0 +1,24 @@
+
+------ Order-2 ------
+Customer Name: kaleem
+Phone Number: 98765678
+Headphones Qty:45 Amount:90000.00
+Total: 90000.00
+Discount: 9000.00
+Final Bill: 81000.00
+
+------ Order-3 ------
+Customer Name: prasanth
+Phone Number: 834141332
+Phone Qty:45 Amount:900000.00
+Total: 900000.00
+Discount: 90000.00
+Final Bill: 810000.00
+
+------ Order-4 ------
+Customer Name: bvk
+Phone Number: 8074400245
+Laptop Qty:1 Amount:50000.00
+Total: 50000.00
+Discount: 2500.00
+Final Bill: 47500.00
